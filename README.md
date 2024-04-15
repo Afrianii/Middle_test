@@ -4,6 +4,7 @@ Middle Test ini merupakan tes untuk menguji kemampuan dalam bahasa pemrograman P
 Tes ini terdiri dari dua bagian:
 
 Python: Bagian ini akan menguji kemampuan Anda dalam menulis kode Python untuk menyelesaikan berbagai macam masalah.
+
 SQL: Bagian ini akan menguji kemampuan dalam menulis kueri SQL untuk mengambil data dari database.
 
 Tujuan:
